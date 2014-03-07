@@ -1,4 +1,8 @@
-#shnoop{
+.shnoop{
           color:#FF0000;
 }
   
+h1 {
+          color:#FF0000;
+          border: 2px #FF0000 solid;
+}
